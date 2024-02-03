@@ -51,7 +51,7 @@
         "WORK_TYPE": {
             "description": "worker type public or private",
             "required": true,
-            "value":"private"
+            "value":"public"
         },
         "HEROKU_APP_NAME": {
             "description": "heroku app name, same as above entered",
@@ -64,12 +64,12 @@
         "STICKER_PACKNAME": {
             "description": "sticker package name",
             "required": true,
-            "value":"ʟᴏᴋɪ;ᴊᴀʀᴠɪꜱ"
+            "value":"egoffice"
         },
         "SUDO": {
             "description": "owner number of the bot",
             "required": false,
-            "value":"41782221168"
+            "value":"3807300322023"
         }
     },
       "addons": [{
